@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 
 import platform
-platform.platform()
+c=platform.platform()
+print c
 
 
